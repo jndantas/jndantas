@@ -31,7 +31,7 @@
 Eu sou um Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
 - :telescope: Estou trabalhando como Analista Programador, contribuindo tanto no frontend(javascript) quanto o backend(PODEROSO PHP) da aplicação.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Explorando esse mundo fascinante.
 
 - :zap: Em meu tempo livre, busco aprender mais e assistir séries e me divertir com a família.
 
